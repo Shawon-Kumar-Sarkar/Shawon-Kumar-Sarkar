@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/Profile-Cover-Dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/Profile-Cover-Light.png">
+  <img alt="Shawon Kumar Sarkar" src="./assets/Profile-Cover-Light.png">
+</picture>
+
 ## Hi there 👋
 
 <!--
