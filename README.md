@@ -29,3 +29,27 @@
     <img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=%23fff" alt="INSTAGRAM" />
   </a>
 </p>
+
+<br/>
+
+<!-- My skill -->
+
+## My skill
+
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Tailwind_css-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/DaisyUi-%231AD1A5?style=for-the-badge&logo=daisyui&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/React_js-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23000)
+![Static Badge](https://img.shields.io/badge/Node_js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Mongoose-%23880000?style=for-the-badge&logo=mongoose&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Shadcn%2Fui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%23fff)
+
+
